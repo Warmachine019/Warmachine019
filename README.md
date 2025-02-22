@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Spandan</h1>
 <h3 align="center">Python, Java and HTML Developer.</h3>
 
-- 🚀 Currently learning **C++, Python, Java, HTML, SQL, CSS and 3D modelling**
+- 🚀 Currently honing my skills in **C++, Python, Java, HTML, SQL, CSS and 3D modelling**
 
 - 👨‍💻 All of my projects are available on this github profile.
 
