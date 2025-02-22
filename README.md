@@ -1,13 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Spandan</h1>
 <h3 align="center">Python, Java and HTML Developer.</h3>
 
-- 🚀 I’m currently learning **C++, Python, Java, HTML, SQL, CSS and 3D modelling**
+- 🚀 Currently learning **C++, Python, Java, HTML, SQL, CSS and 3D modelling**
 
-- 👨‍💻 All of my projects are available at [github.com/Warmachine019](github.com/Warmachine019)
+- 👨‍💻 All of my projects are available on this github profile.
 
-- 📫 How to reach me **spandan019@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1X2aVGLdTllwchSMNuJXLZLkwIi6VXXRN/edit?usp=sharing&ouid=111877070533025567605&rtpof=true&sd=true](https://docs.google.com/document/d/1X2aVGLdTllwchSMNuJXLZLkwIi6VXXRN/edit?usp=sharing&ouid=111877070533025567605&rtpof=true&sd=true)
+- 📫 Reach out to me at **spandan019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
