@@ -12,7 +12,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=warmachine019&show_icons=true&theme=transparent" alt="warmachine019" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warmachine019&" alt="warmachine019" /></p>
+<p><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Warmachine019&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" alt="warmachine019" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
