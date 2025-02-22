@@ -12,8 +12,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=warmachine019&show_icons=true&locale=en&layout=compact" alt="warmachine019" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=warmachine019&show_icons=true&locale=en" alt="warmachine019" /></p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warmachine019&" alt="warmachine019" /></p>
 
 <h3 align="left">Connect with me:</h3>
