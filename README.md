@@ -7,6 +7,9 @@
 
 - 📫 Reach out to me at **spandan019@gmail.com**
 
+
+<img src="https://komarev.com/ghpvc/?username=warmachine019&color=blue"/>
+
 <table style="border-collapse: collapse; border: none;">
     <tr>
         <td style="border: none;">
