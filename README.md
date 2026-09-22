@@ -13,9 +13,6 @@
 <table style="border-collapse: collapse; border: none;">
     <tr>
         <td style="border: none;">
-            <img src="https://github-readme-stats.vercel.app/api?username=warmachine019&show_icons=true&theme=transparent&hide_border=True" alt="warmachine019" />
-        </td>
-        <td style="border: none;">
             <a href="https://git.io/streak-stats">
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=Warmachine019&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
             </a>
